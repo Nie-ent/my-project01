@@ -1,5 +1,7 @@
 # my-project01
 
+[![CI](https://github.com/Nie-ent/my-project01/actions/workflows/ci.yml/badge.svg)](https://github.com/Nie-ent/my-project01/actions/workflows/ci.yml)
+
 A TypeScript project with Jest testing.
 
 ## Setup
